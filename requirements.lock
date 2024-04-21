@@ -10,3 +10,5 @@
 -e file:.
 mlx==0.11.1
     # via llama3-finetuning
+numpy==1.26.4
+    # via llama3-finetuning
